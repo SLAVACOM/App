@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">frpntend</string>
+
+    <string name="Регистрация"><u>Регистрация</u></string>
+    <string name="Мероприятия"><u>Мероприятия</u></string>
+    <string name="забыли_пароль"><u>Забыли пароль?</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
